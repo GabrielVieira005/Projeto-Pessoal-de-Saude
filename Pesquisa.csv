@@ -1,0 +1,16 @@
+Doenças,Sintomas,Possíveis Causas,Como previnir,Remédio
+Gripe,Febre; Dor de garganta; Tosse; Dores no corpo; Fadiga; Mal-estar,Infecção viral,Vacinação; Evitar contato com pessoas doentes; Higiene das mãos,Antitérmicos; Analgésicos
+Resfriado,Nariz entupido,Infecção viral,Higiene das mãos; Evitar contato com pessoas doentes,Descongestionantes; Antialérgicos
+Covid-19,Febre; Dificuldade de respirar; Tosse,Infecção viral,Vacinação; Uso de máscara e álcool gel; Higiene das mãos,Antivirais; Corticoides
+Diabetes,Sede excessiva,Genética; Má alimentação, Dieta saudável com baixo consumo de açúcares,Insulina; Antidiabéticos orais
+Hipertensão,Dor de cabeça; Tontura; Zumbido no ouvido; Visão turva; Dor no peito(Em casos mais graves),Estresse; Má alimentação, Dieta saudável com baixo consumo de sódio,Antihipertensivos
+Pé chato,Dor nos pés; Dor nos tornozelos; Dor nos joelhos; Pé com baixa ou sem concavidade,Calçados inadequados; Genética, Uso de calçados adequados para o problema em questão, Palmilas adaptadas a depender do caso
+Asma,Falta de ar; Chiado no peito; Tosse; Aperto no peito,Alérgenos; Ambiente poluído; Genética, Evitar exposição a alérgenos; Uso de medicamentos conforme prescrição médica,Broncodilatadores; Corticoides
+Alergia,Coceira; Vermelhidão localizada; Dificuldade em respirar(Em casos extremos),Exposição a alérgenos; Genética, Evitar contato com alérgenos conhecidos; Uso de medicamentos conforme prescrição médica,Antihistamínicos; Corticoides; Epinefrina(Em casos mais graves)
+Cancer de pulmão,Tosse persistente; Dor no peito; Fadiga excessiva sem razão,Tabagismo; Exposição a poluentes,Parar de fumar; Evitar exposição a poluentes,Quimioterapia; Radioterapia
+Depressão,Tristeza persistente; Perda de interesse em atividades diárias; Alterações no sono e apetite; Dificuldade de concentração,Genética; Eventos traumáticos,Terapia psicológica; Medicamentos conforme prescrição médica,Antidepressivos; Terapia cognitivo-comportamental
+Dengue,Febre alta; Dor de cabeça; Dor atrás dos olhos; Dores musculares e articulares,Transmissão por mosquitos Aedes aegypti,Eliminação de criadouros de mosquitos; Uso de repelentes,Analgésicos; Antitérmicos; Medicamentos para tratar sintomas
+Leucemia,Fadiga; Febre; Perda de peso; Sangramentos; Infecções frequentes; Dor óssea,Mutação genética; Exposição a produtos químicos,Terapia alvo; Quimioterapia,Quimioterapia; Transplante de medula óssea
+Hepatite,Amarelamento da pele e olhos; Urina escura; Fezes claras; Cansaço; Dor abdominal; Febre; Vômitos,Infecção viral; Consumo excessivo de álcool,Vacinação; Evitar consumo excessivo de álcool,Antivirais; Medicamentos para aliviar sintomas
+Esquizofrenia,Alucinações; Delírios; Alterações no comportamento; Dificuldade de concentração; Pensamento e fala desorganizados,Genética; Fatores ambientais,Terapia psicológica; Medicamentos antipsicóticos,Antipsicóticos; Terapia ocupacional
+Raiva,Febre; Dor de cabeça; Dificuldade em engolir/Hidrofobia; Paralisia; Inquietação e Agitação,Transmissão pelo vírus da raiva,Vacinação de animais; Evitar contato com animais suspeitos,Imunoglobulina antirrábica; Vacina antirrábica
