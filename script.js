@@ -1,3 +1,5 @@
+// NÃO ESQUECER DE COMENTAR O CÓDIGO PARA ESTUDO!!!!!!
+
 let linhasCSV = [];
 
 // Carrega o conteúdo do arquivo CSV
