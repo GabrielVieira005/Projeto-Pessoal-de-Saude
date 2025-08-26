@@ -23,7 +23,7 @@ document.getElementById("pesquisa").addEventListener("input", function() {
    return;
  }
 
- const termosBusca = termo.split(";").map(t => t.trim());
+ const termosBusca = termo.split(",").map(t => t.trim());
 
  const filtradas = linhasCSV.filter((linha, index) => {
    if (index === 0) return true; 
