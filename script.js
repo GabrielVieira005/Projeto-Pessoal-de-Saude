@@ -40,6 +40,7 @@ function renderTabela(linhas) {
   container.innerHTML = "";
 
   const tabela = document.createElement("table");
+  //tabela.style.backgroundColor = "black";
   const thead = document.createElement("thead");
   const tbody = document.createElement("tbody");
 
